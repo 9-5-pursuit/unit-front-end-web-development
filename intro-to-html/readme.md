@@ -52,7 +52,7 @@ When a web browser displays a web page to a user, the browser needs to know thre
 1. How should the content _appear_?
 1. How should the page _behave_ in response to a user?
 
-HTML stands for "Hyper Text Markup Language". It's a special way of writing that tells web browsers what text, images, and other content you want people to see on your website. HTML is responsible for (1), but HTML can also tell a browser a little bit about how the content should appear (2). It **cannot** tell a browser how a website should behave (3). That's what JavaScript is for!
+HTML stands for "Hyper Text Markup Language". It's a special way of writing that tells web browsers what text, images, and other content you want people to see on your website. HTML is responsible for what content is on the webpage (1), but HTML can also tell a browser a little bit about how the content should appear (2). It **cannot** tell a browser how a website should behave (3). That's what JavaScript is for!
 
 HTML uses _tags_ inside angle brackets to tell the browser what type of information is inside (e.g `<h1>Heading</h1>` is a heading).
 
