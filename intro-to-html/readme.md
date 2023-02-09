@@ -151,7 +151,7 @@ We just made our first website! Not a lot of content there yet though, so let's 
 </html>
 ```
 
-![A single line of HTML on the page.](./assets/html-one-ling.png)
+![A single line of HTML on the page.](./assets/html-one-line.png)
 
 When we view our website in a browser, all the text is there, but it's only on one line. HTML doesn't respect new lines that you add manually in the `<body>`. In fact, HTML ignores all "whitespace", similar to how javascript doesn't care whether you write stuff on one line or multiple.
 
