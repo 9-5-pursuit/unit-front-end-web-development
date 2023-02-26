@@ -104,7 +104,7 @@ The basic setup of HTML looks like this:
 </html>
 ```
 
-- `<!DOCTYPE html>` is a special declaration that we put at the top to say which version of HTML we're using. By default, not we are using HTML 5. If we wanted to write using an older version, we'd change this declaration here.
+- `<!DOCTYPE html>` is a special declaration that we put at the top to say which version of HTML we're using. By default, we are using HTML 5. If we wanted to write using an older version, we'd change this declaration here.
 - The rest of our website is enclosed in these `<html> </html>` tags. <html> means that everything below is html, up until we hit the `</html>` tag.
 - `<head>` means that everything up until the `</head>` tag is part of the website's metadata. Metadata means information about the website, but not something that we show to users. This includes stuff like the language the page is in, and the image/text that shows up when you post a link in slack.
 - `<body>` means that everything up until the `</body>` tag is part of the main content. Users will see all of the text and tags here.
